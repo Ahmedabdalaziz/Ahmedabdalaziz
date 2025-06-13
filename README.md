@@ -21,8 +21,8 @@
 | Category                | Tools & Technologies                                                                 |
 |------------------------|---------------------------------------------------------------------------------------|
 | **Mobile Framework**   | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
-| **Languages**          | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white), JavaScript |
-| **State Management**   | ![BLoC](https://img.shields.io/badge/-BLoC-2962FF?logo=bloc&logoColor=white), Provider |
+| **Languages**          | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white), C# , C++ , python |
+| **State Management**   | ![BLoC](https://img.shields.io/badge/-BLoC-2962FF?logo=bloc&logoColor=white), Cubit |
 | **Backend & Storage**  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white), REST API |
 | **Architecture**       | Clean Architecture, Repository Pattern                                               |
 | **CI/CD & Versioning** | GitHub Actions, Git & GitHub workflows                                                |
