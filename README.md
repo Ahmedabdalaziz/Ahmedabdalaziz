@@ -1,5 +1,4 @@
 <h1 align="center">👊 Ahmed Abd Elaziz – Flutter & AI Powerhouse</h1>
-<h3 align="center">Codename: Egyption Flutter Developer 🇪🇬</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&width=500&lines=Flutter+Specialist;AI+Enthusiast;Clean+Architecture;Global+Collaborator" alt="Typing header">
