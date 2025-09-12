@@ -1,4 +1,4 @@
-<h1 align="center">👊 Ahmed Abd Elaziz – Flutter Developer </h1>
+<h1 align="center"> Ahmed Abd Elaziz – Flutter Developer </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&width=500&lines=Flutter+Specialist;Clean+Architecture;" alt="Typing header">
