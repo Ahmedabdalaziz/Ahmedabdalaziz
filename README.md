@@ -34,14 +34,10 @@ I build cross-platform mobile applications using Flutter, focusing on scalable a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdalaziz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdalaziz&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdalaziz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdalaziz&theme=tokyonight&hide_border=true" width="48%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdalaziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdalaziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
 </div>
 
