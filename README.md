@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ahmed
 
-### Flutter Developer from Alexandria, Egypt
+### Flutter Developer from Egypt
 
 *Crafting elegant mobile experiences with clean code*
 
